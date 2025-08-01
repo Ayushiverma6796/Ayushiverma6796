@@ -34,6 +34,7 @@ Welcome to my GitHub! I'm a **Data Analyst** with a sharp eye for detail and a p
 - 📧 Email: [ayushiverma6796@gmail.com](mailto:ayushiverma6796@gmail.com)  
 - 📱 Phone: +91 8800897251  
 - 💼 LinkedIn: https://www.linkedin.com/in/ayushi-verma-b16874165/
+- 📄 Resume: https://drive.google.com/file/d/1dYLLCMgzVhRo7pQchaaRpvObHY7_daK2/view?usp=drive_link
 
 ---
 
